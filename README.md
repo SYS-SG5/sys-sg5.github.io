@@ -1,5 +1,7 @@
 # sys-sg5.github.io
 
+银狐病毒强制清除
+
 本人为业余爱好者，专门写程序**对抗现今流行的银狐病毒**。这个程序的优点是“快”，几分钟即可杀毒完毕，并且只需要你输入几个字母使唤程序，操作特别简单。
 
 [点击我一键下载银狐病毒专杀程序！](https://github.com/SYS-SG5/sys-sg5.github.io/raw/refs/heads/main/SilverFoxKiller.exe)
