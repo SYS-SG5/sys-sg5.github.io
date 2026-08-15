@@ -2,9 +2,9 @@
 
 本人为业余爱好者，专门写程序**对抗现今流行的银狐病毒**。这个程序的优点是“快”，几分钟即可杀毒完毕，并且只需要你输入几个字母使唤程序，操作特别简单。
 
-[一键下载本程序进行杀毒！](https://github.com/SYS-SG5/sys-sg5.github.io/raw/refs/heads/main/SilverFoxKiller.exe)
+[点击我一键下载银狐病毒专杀程序！](https://github.com/SYS-SG5/sys-sg5.github.io/raw/refs/heads/main/SilverFoxKiller.exe)
 
-**本程序保证纯净无毒，不会释放垃圾缓存文件或者在注册表中主动创建垃圾条目。**  
+**本程序保证“纯净”和“无毒”，不会释放垃圾缓存文件或者在注册表中主动创建垃圾条目。**  
 **本程序的设计旨在修复感染银狐病毒的 Windows 电脑。**
 
 本程序专治：
